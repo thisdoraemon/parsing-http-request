@@ -1,4 +1,4 @@
-# Parsing HTTP Request Using Echo
+# Parsing HTTP Request Using Echo Framework
 
 This is a simple Go application that demonstrates basic usage of the Echo framework to create a RESTful API for managing user data.
 
