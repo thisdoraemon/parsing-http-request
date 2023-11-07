@@ -22,9 +22,9 @@ These instructions will help you set up and run the application on your local ma
    
 2. Build and run the application.
    
-  ```sh
-  go run main.go
-  ```
+     ```sh
+     go run main.go
+     ```
 The server will start on port 9000. You can access it at `localhost:9000/users`
 
 ### Usage
