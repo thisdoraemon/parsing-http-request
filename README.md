@@ -48,8 +48,8 @@ The server will respond with the user's data in JSON format:
 }
 ```
 
-### Acknowledgements
+## Acknowledgements
 This application was developed by following the [Novalagung Parsing HTTP Request Payload with Echo](https://dasarpemrogramangolang.novalagung.com/C-parsing-http-request-payload-echo.html). A big thank you to Novalagung for their tutorial and guidance.
 
-### Contributing
+## Contributing
 Feel free to contribute to this project by opening issues or pull requests. Any feedback or improvements are highly appreciated.
