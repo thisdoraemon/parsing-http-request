@@ -16,7 +16,7 @@ These instructions will help you set up and run the application on your local ma
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/umjiiii/parsing-http-request.git
+   git clone https://github.com/thisdoraemon/parsing-http-request.git
    cd your-go-app
    ```
    
